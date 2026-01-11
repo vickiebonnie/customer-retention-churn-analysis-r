@@ -1,3 +1,3 @@
-# customer-retention-churn-analysis-r
+##  Customer Retention & Churn Analysis for a Consumer Subscription Startup (Using R)
 
 # Project Overview
