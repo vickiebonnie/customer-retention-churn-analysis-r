@@ -21,7 +21,9 @@ To solve this, I focused on four key goals:
 
 ## Dataset
 Simulated customer and transaction data reflecting real-world startup behavior
+
 ![image alt](https://github.com/vickiebonnie/customer-retention-churn-analysis-r/blob/57b756a7f4d4ff19c3740349a5b474d7c043305a/data%201.png)
+![image alt](https://github.com/vickiebonnie/customer-retention-churn-analysis-r/blob/8cdbd59f9fce903986654e2ed49402cdaf4434d1/data%202.png)
 
 
 
