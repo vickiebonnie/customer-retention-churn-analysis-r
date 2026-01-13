@@ -78,9 +78,7 @@ Simulated customer and transaction data reflecting real-world startup behavior
 
 ### Churn Rate by Acquisition Channel
 
-
 ### Churn Rate by Product Type
-
 ### Customer Inactivity and Churn Risk
 
 
