@@ -80,7 +80,8 @@ Simulated customer and transaction data reflecting real-world startup behavior
 
 
 ## Churn Rate by Acquisition Channel
-<img width="501" height="279" alt="image" src="https://github.com/user-attachments/assets/cc451b1d-735a-4808-9215-611f68d26ad2" />
+<img width="501" height="279" alt="image" src="https://github.com/user-attachments/assets/9670f319-7521-4a8b-b871-b506e9e32dda" />
+
 
 
 ## Churn Rate by Product Type
