@@ -42,26 +42,6 @@ Simulated customer and transaction data reflecting real-world startup behavior
 
 
 
-# key insights 
-
-### Churn Rate by Customer Type
-
-
-### Churn Rate by Acquisition Channel
-
-
-### Churn Rate by Product Type
-
-### Customer Inactivity and Churn Risk
-
-
-
-
-
-
-
-
-
 ###   Tools:
 
 - R for data cleaning, analysis and visualization
@@ -71,10 +51,6 @@ Simulated customer and transaction data reflecting real-world startup behavior
 - ggplot2 for visual storytelling
 
 - lubricate for date handling
-
-
-
-
 
 
 
@@ -93,6 +69,19 @@ Simulated customer and transaction data reflecting real-world startup behavior
 - Calculated and compared churn rates across key customer segments
 
 - Visualized churn patterns using clear, business-focused bar charts
+
+
+# key insights 
+
+### Churn Rate by Customer Type
+
+
+### Churn Rate by Acquisition Channel
+
+
+### Churn Rate by Product Type
+
+### Customer Inactivity and Churn Risk
 
 
 
