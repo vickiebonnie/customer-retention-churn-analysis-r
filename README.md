@@ -30,10 +30,11 @@ Simulated customer and transaction data reflecting real-world startup behavior
 
 
 ### Tools:
+
 •	R for data cleaning, analysis and visualization
 •	dplyr for data manipulation
 •	ggplot2 for visual storytelling
-•	lubridate for date handling
+•	lubricate for date handling
 
 
 # Methodology
