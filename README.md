@@ -11,10 +11,11 @@ For subscription-based start ups, churn is like a leak in a bucket.you can keep 
 # Business Objectives
 
 To solve this, I focused on four key goals:
-•	Measure churn and understand its scale
-•	Compare retention between subscription and one-time buyers
-•	Identify acquisition channels that bring loyal customers
-•	Analyze product influence on retention
+
+- Measure churn and understand its scale
+- Compare retention between subscription and one-time buyers
+- Identify acquisition channels that bring loyal customers
+- Analyze product influence on retention
 
 
 # Dataset and Tools
@@ -23,6 +24,7 @@ To solve this, I focused on four key goals:
 Simulated customer and transaction data reflecting real-world startup behavior
 
 ![image alt](https://github.com/vickiebonnie/customer-retention-churn-analysis-r/blob/57b756a7f4d4ff19c3740349a5b474d7c043305a/data%201.png)
+
 ![image alt](https://github.com/vickiebonnie/customer-retention-churn-analysis-r/blob/8cdbd59f9fce903986654e2ed49402cdaf4434d1/data%202.png)
 
 
