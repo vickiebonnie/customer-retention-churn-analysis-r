@@ -42,6 +42,25 @@ Simulated customer and transaction data reflecting real-world startup behavior
 
 
 
+# key insights 
+
+### Churn Rate by Customer Type
+
+
+### Churn Rate by Acquisition Channel
+
+
+### Churn Rate by Product Type
+
+### Customer Inactivity and Churn Risk
+
+
+
+
+
+
+
+
 
 ###   Tools:
 
