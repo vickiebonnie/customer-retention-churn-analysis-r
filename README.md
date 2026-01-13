@@ -36,22 +36,22 @@ Simulated customer and transaction data reflecting real-world startup behavior
 
 
 
-•	Customer info: signup date, acquisition channel, subscription type, location
-•	Transaction records: order date, product type, order value
-•	Churn definition: No purchase in the last 90 days
+- Customer info: signup date, acquisition channel, subscription type, location
+- Transaction records: order date, product type, order value
+- Churn definition: No purchase in the last 90 days
 
 
 
 
 ###   Tools:
 
-•	R for data cleaning, analysis and visualization
+- R for data cleaning, analysis and visualization
 
-•	dplyr for data manipulation
+- dplyr for data manipulation
 
-•	ggplot2 for visual storytelling
+- ggplot2 for visual storytelling
 
-•	lubricate for date handling
+- lubricate for date handling
 
 
 
@@ -61,19 +61,19 @@ Simulated customer and transaction data reflecting real-world startup behavior
 
 # Methodology
 
-•	Generated simulated customer and transaction data to reflect realistic behavior in a consumer subscription startup
+- Generated simulated customer and transaction data to reflect realistic behavior in a consumer subscription startup
 
-•	Defined customer churn as no purchase activity within the last 90 days
+- Defined customer churn as no purchase activity within the last 90 days
 
-•	Aggregated transaction data to create customer-level metrics, including total orders and average order value
+- Aggregated transaction data to create customer-level metrics, including total orders and average order value
 
-•	Segmented customers by subscription type, acquisition channel, and primary product
+- Segmented customers by subscription type, acquisition channel, and primary product
 
-•	Excluded customers without sufficient purchase history from product-level analysis
+- Excluded customers without sufficient purchase history from product-level analysis
 
-•	Calculated and compared churn rates across key customer segments
+- Calculated and compared churn rates across key customer segments
 
-•	Visualized churn patterns using clear, business-focused bar charts
+- Visualized churn patterns using clear, business-focused bar charts
 
 
 
