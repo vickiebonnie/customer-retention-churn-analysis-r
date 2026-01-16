@@ -85,6 +85,8 @@ Simulated customer and transaction data reflecting real-world startup behavior
 
 
              ### Churn Rate by Product Type
+<img width="500" height="312" alt="image" src="https://github.com/user-attachments/assets/d2df723a-0c77-4abb-a6c3-d7faa4f34faa" />
+
 
              ### Customer Inactivity and Churn Risk
 
