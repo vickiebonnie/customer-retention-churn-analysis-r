@@ -85,6 +85,12 @@ Simulated customer and transaction data reflecting real-world startup behavior
             ### Churn Rate by Acquisition Channel
 <img width="501" height="279" alt="image" src="https://github.com/user-attachments/assets/9670f319-7521-4a8b-b871-b506e9e32dda" />
 
+- Email-acquired customers have the highest churn rate.
+
+- Referral and paid acquisition channels retain customers slightly better.
+
+- Customer retention varies by acquisition channel, indicating differences in customer quality.
+
 
 
             ### Churn Rate by Product Type
