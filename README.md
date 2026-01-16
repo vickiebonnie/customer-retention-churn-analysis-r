@@ -97,6 +97,13 @@ Simulated customer and transaction data reflecting real-world startup behavior
 <img width="500" height="312" alt="image" src="https://github.com/user-attachments/assets/d2df723a-0c77-4abb-a6c3-d7faa4f34faa" />
 
 
+- Bundle customers show the highest churn, indicating lower repeat engagement for bundled purchases.
+
+- Refill customers churn less than bundle buyers, suggesting stronger repeat-purchase behavior.
+
+- Spray customers have the lowest churn among the three product types, indicating relatively better retention.
+
+- Customer retention varies by product type, showing that product usage patterns influence churn.
         
 
 
