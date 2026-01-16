@@ -54,7 +54,7 @@ Simulated customer and transaction data reflecting real-world startup behavior
 
 
 
-# Methodology
+## Methodology
 
 - Generated simulated customer and transaction data to reflect realistic behavior in a consumer subscription startup
 
