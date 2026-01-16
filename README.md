@@ -115,6 +115,9 @@ Simulated customer and transaction data reflecting real-world startup behavior
 - Retention varies across acquisition channels, indicating differences in customer quality.
 
 - Certain products are associated with higher churn, showing that product usage patterns affect retention.
+
+
+## Recommendations
         
 
 
