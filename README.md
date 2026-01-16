@@ -104,6 +104,17 @@ Simulated customer and transaction data reflecting real-world startup behavior
 - Spray customers have the lowest churn among the three product types, indicating relatively better retention.
 
 - Customer retention varies by product type, showing that product usage patterns influence churn.
+
+
+## Conclusion
+
+- Customer churn is influenced by customer type, acquisition channel, and product type.
+
+- Subscription customers show stronger retention compared to one-time buyers.
+
+- Retention varies across acquisition channels, indicating differences in customer quality.
+
+- Certain products are associated with higher churn, showing that product usage patterns affect retention.
         
 
 
