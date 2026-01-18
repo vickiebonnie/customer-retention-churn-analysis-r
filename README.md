@@ -7,8 +7,9 @@
 - [Dataset And Tools](#dataset-and-tools)
 - [Methodology](#Methodology)
 - [Key Insights](#key-insights)
+- [Limitations](#Limitations)
 - [Conclusions](#Conclusions)
-- [Recommendations](recommendations)
+- [Recommendations](#Recommendations)
 
 
 
@@ -121,7 +122,18 @@ Simulated customer and transaction data reflecting real-world startup behavior
 - Customer retention varies by product type, showing that product usage patterns influence churn.
 
 
-## Conclusion
+##  Limitations
+
+- The analysis is based on simulated data and does not represent a specific real company.
+
+- Churn is defined using a fixed 90-day inactivity threshold, which may vary across businesses.
+
+- Customer behavior is simplified and may not capture all real-world factors influencing churn.
+
+
+
+
+## Conclusions
 
 - Customer churn varies by customer type, acquisition channel and product type.
 
