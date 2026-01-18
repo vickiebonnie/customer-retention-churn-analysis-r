@@ -119,19 +119,19 @@ Simulated customer and transaction data reflecting real-world startup behavior
 
 ## Recommendations
 
-### Lean into subscriptions:
+#### Lean into subscriptions:
 Customers on subscriptions stay longer, so make it easier and more visible for first-time buyers to subscribe after their initial purchase.
 
-### Revisit email acquisition: 
+#### Revisit email acquisition: 
 Customers acquired via email churn more. Review targeting and messaging to ensure this channel attracts higher-intent users.
 
-### Double down on better channels:
+#### Double down on better channels:
 Referral and paid channels show relatively better retention and are likely bringing higher-quality customers.
 
-### Fix bundle drop-off:
+#### Fix bundle drop-off:
 Bundle buyers churn more, suggesting a need for stronger follow-up, onboarding or usage guidance after purchase.
 
-### Push repeat-use products: 
+#### Push repeat-use products: 
 Products with lower churn should be highlighted in onboarding and cross-sell flows to encourage repeat behavior.
         
 
