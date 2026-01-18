@@ -108,16 +108,31 @@ Simulated customer and transaction data reflecting real-world startup behavior
 
 ## Conclusion
 
-- Customer churn is influenced by customer type, acquisition channel, and product type.
+- Customer churn varies by customer type, acquisition channel and product type.
 
-- Subscription customers show stronger retention compared to one-time buyers.
+- Subscription customers retain better than one-time buyers.
 
-- Retention varies across acquisition channels, indicating differences in customer quality.
+- Email-acquired customers show higher churn compared to other channels.
 
-- Certain products are associated with higher churn, showing that product usage patterns affect retention.
+- Certain products, particularly bundles are associated with higher churn.
 
 
 ## Recommendations
+
+### Lean into subscriptions:
+Customers on subscriptions stay longer, so make it easier and more visible for first-time buyers to subscribe after their initial purchase.
+
+### Revisit email acquisition: 
+Customers acquired via email churn more. Review targeting and messaging to ensure this channel attracts higher-intent users.
+
+### Double down on better channels:
+Referral and paid channels show relatively better retention and are likely bringing higher-quality customers.
+
+### Fix bundle drop-off:
+Bundle buyers churn more, suggesting a need for stronger follow-up, onboarding or usage guidance after purchase.
+
+### Push repeat-use products: 
+Products with lower churn should be highlighted in onboarding and cross-sell flows to encourage repeat behavior.
         
 
 
