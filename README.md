@@ -8,8 +8,8 @@
 - [Methodology](#Methodology)
 - [Key Insights](#key-insights)
 - [Limitations](#Limitations)
-- [Conclusions](#Conclusions)
-- [Recommendations](#Recommendations)
+- [Conclusions](#conclusions)
+- [Recommendations](#recommendations)
 
 
 
