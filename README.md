@@ -1,5 +1,20 @@
 # Customer Retention & Churn Analysis for a Consumer Subscription Startup (Using R)
 
+## Table Of Contents
+- [Project Overview](#project-overview)
+- [Business Context](#business-context)
+- [Business Objectives](#business-objectives)
+- [Dataset And Tools](#dataset-and-tools)
+- [Methodology](#Methodology)
+- [Key Insights](#key-insights)
+- [Conclusions](#Conclusions)
+- [Recommendations](recommendations)
+
+
+
+
+
+
 ## Project Overview
 A subscription start up is growing fast, but something feels off. New customers sign up every day, yet revenue growth is sluggish. The culprit? Customer churn ,the silent killer of subscription businesses. This project tells the story of how I turned raw data into actionable insights to answer one critical question: Why are customers leaving, and how can we keep them? By analyzing customer behavior, acquisition channels and product usage patterns, I uncovered retention drivers and built a roadmap for reducing churn and boosting lifetime value
 
