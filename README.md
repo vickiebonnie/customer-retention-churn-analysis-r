@@ -2,7 +2,7 @@
 
 ## Table Of Contents
 - [Project Overview](#project-overview)
--  [Key Definitions](#keyDefinitions)
+-  [Key Definitions](#key-Definitions)
 - [Business Context](#business-context)
 - [Business Objectives](#business-objectives)
 - [Dataset And Tools](#dataset-and-tools)
