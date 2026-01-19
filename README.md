@@ -2,6 +2,7 @@
 
 ## Table Of Contents
 - [Project Overview](#project-overview)
+-  [Key Definitions](#keyDefinitions)
 - [Business Context](#business-context)
 - [Business Objectives](#business-objectives)
 - [Dataset And Tools](#dataset-and-tools)
@@ -18,6 +19,20 @@
 
 ## Project Overview
 A subscription start up is growing fast, but something feels off. New customers sign up every day, yet revenue growth is sluggish. The culprit? Customer churn ,the silent killer of subscription businesses. This project tells the story of how I turned raw data into actionable insights to answer one critical question: Why are customers leaving, and how can we keep them? By analyzing customer behavior, acquisition channels and product usage patterns, I uncovered retention drivers and built a roadmap for reducing churn and boosting lifetime value
+
+## Key Definitions
+
+- Customer Churn: A customer is classified as churned if no purchase has been made within the last 90 days.
+
+- Subscription Customer: A customer enrolled in a recurring purchase plan.
+
+- One-time Customer: A customer who makes purchases without enrolling in a subscription plan.
+
+- Acquisition Channel: The marketing source through which a customer first joined the business (e.g., email, referral, paid ads).
+
+- Primary Product: The product type purchased most frequently by a customer (e.g., spray, refill, bundle).
+
+- Churn Rate: The proportion of customers within a group who are classified as churned.
 
 
 ## Business Context
