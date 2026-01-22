@@ -94,7 +94,7 @@ Simulated customer and transaction data reflecting real-world startup behavior
 
 - Visualized churn patterns using clear, business-focused bar charts
 
-
+#you this girl
 
 
 
