@@ -178,10 +178,8 @@ Referral and paid channels show relatively better retention and are likely bring
 - #### Fix bundle drop-off:
 Bundle buyers churn more, suggesting a need for stronger follow-up, onboarding or usage guidance after purchase.
 
-<<<<<<< HEAD
-#you this girl
 
-=======
+
 - #### Push repeat-use products: 
 Products with lower churn should be highlighted in onboarding and cross-sell flows to encourage repeat behavior.
         
