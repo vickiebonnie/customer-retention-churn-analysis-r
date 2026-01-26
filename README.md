@@ -184,13 +184,6 @@ Bundle buyers churn more, suggesting a need for stronger follow-up, onboarding o
 - #### Push repeat-use products: 
 Products with lower churn should be highlighted in onboarding and cross-sell flows to encourage repeat behavior.
         
-<<<<<<< HEAD
-
-
-=======
-
-
->>>>>>> 6fea9c12223d0b579c8b3a001031866469b49192
 
 
 
