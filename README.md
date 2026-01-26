@@ -119,7 +119,8 @@ Simulated customer and transaction data reflecting real-world startup behavior
 
 
             ### Churn Rate by Acquisition Channel
-<img width="501" height="279" alt="image" src="https://github.com/user-attachments/assets/9670f319-7521-4a8b-b871-b506e9e32dda" />
+<img width="545" height="282" alt="image" src="https://github.com/user-attachments/assets/5949e2b1-edc9-4e9c-b668-8dfeb00cdf5a" />
+
 
 - Customers acquired through Email have the highest churn rate, showing lower retention compared to other channels.
 
@@ -183,8 +184,13 @@ Bundle buyers churn more, suggesting a need for stronger follow-up, onboarding o
 - #### Push repeat-use products: 
 Products with lower churn should be highlighted in onboarding and cross-sell flows to encourage repeat behavior.
         
+<<<<<<< HEAD
 
 
+=======
+
+
+>>>>>>> 6fea9c12223d0b579c8b3a001031866469b49192
 
 
 
